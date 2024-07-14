@@ -1,0 +1,24 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "sites_be3_functions_name": {
+            "value": null
+        },
+        "components_be3functions_name": {
+            "value": null
+        },
+        "storageAccounts_be3functions_name": {
+            "value": null
+        },
+        "serverfarms_ASP_be3_functions_0b73_name": {
+            "value": null
+        },
+        "actionGroups_Application_Insights_Smart_Detection_name": {
+            "value": null
+        },
+        "workspaces_DefaultWorkspace_8f42f049_7fdc_421e_a65f_527673a4fe7f_EJP_externalid": {
+            "value": null
+        }
+    }
+}
