@@ -1,2 +1,2 @@
-# ms-writing-fmt
-it's an unofficial formatter for jpn-ms-writing-styleguide
+# az-functions-go-sample
+it's an unofficial sample codes to run a Go-written function in Azure Functions.
